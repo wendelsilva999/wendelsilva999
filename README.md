@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é {seu nome}!
+## 💜 Olá, meu nome é {Wendel}!
 
 Eu sou um Dev com boa experiencia no mercado e Atuei em equipes de forma bastante autonoma na criação de features e APIs para os sistema da empresa em que atuei
 
