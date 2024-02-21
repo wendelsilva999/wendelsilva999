@@ -28,12 +28,15 @@ Eu sou um Dev com boa experiencia no mercado e Atuei em equipes de forma bastant
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 
+## Main repositories
 
-
+[![API USANDO SPRING](https://img.shields.io/badge/API_SPRING-000?style=flat&logo=springboot&color=23e056)](https://github.com/wendelsilva999/webService-springboot3-jpa)
+[![API USANDO NODE](https://img.shields.io/badge/API_NODE-000?style=flat&logo=node.js&color=344F24)](https://github.com/wendelsilva999/Agenda-para-salvar-contatos-Node.js)
 
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/wendel-silva-b874877a/)
-[![Gmail Badge](https://img.shields.io/badge/-email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:wendelsilva043@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendel-silva-b874877a/)
+[![Gmail](https://img.shields.io/badge/wendelsilva043@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](wendelsilva043@gmail.com)
+----
 
